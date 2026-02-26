@@ -1,0 +1,66 @@
+[
+	{
+		"id": "lumenops",
+		"name": "LumenOps",
+		"website": "https://www.lumenops.ai",
+		"sector": "AI Infrastructure",
+		"stage": "Series A",
+		"location": "San Francisco, CA"
+	},
+	{
+		"id": "forgegrid",
+		"name": "ForgeGrid",
+		"website": "https://www.forgegrid.io",
+		"sector": "Industrial Automation",
+		"stage": "Seed",
+		"location": "Austin, TX"
+	},
+	{
+		"id": "northlane-health",
+		"name": "Northlane Health",
+		"website": "https://www.northlanehealth.com",
+		"sector": "Digital Health",
+		"stage": "Series B",
+		"location": "Boston, MA"
+	},
+	{
+		"id": "tidalledger",
+		"name": "TidalLedger",
+		"website": "https://www.tidalledger.com",
+		"sector": "Fintech",
+		"stage": "Series A",
+		"location": "New York, NY"
+	},
+	{
+		"id": "heliofabric",
+		"name": "HelioFabric",
+		"website": "https://www.heliofabric.energy",
+		"sector": "Climate Tech",
+		"stage": "Pre-Seed",
+		"location": "Denver, CO"
+	},
+	{
+		"id": "quarryshield",
+		"name": "QuarryShield",
+		"website": "https://www.quarryshield.io",
+		"sector": "Cybersecurity",
+		"stage": "Seed",
+		"location": "Washington, DC"
+	},
+	{
+		"id": "atlasbeam-data",
+		"name": "AtlasBeam Data",
+		"website": "https://www.atlasbeamdata.com",
+		"sector": "Data Infrastructure",
+		"stage": "Series B+",
+		"location": "Seattle, WA"
+	},
+	{
+		"id": "riverstack",
+		"name": "RiverStack",
+		"website": "https://www.riverstack.dev",
+		"sector": "DevOps",
+		"stage": "Series A",
+		"location": "Chicago, IL"
+	}
+]
